@@ -1,0 +1,14 @@
+html{
+    margin: 20px 35px;
+    align-items: center;
+}
+
+.form-group{
+    padding: 30px;
+    border: 1px solid grey;
+    border-radius: 25px;
+}
+
+.botao{
+    margin: 10px 0;
+}
